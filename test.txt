@@ -1,5 +1,3 @@
 this is sample test file
 using git hook 123
 
-1234
-
